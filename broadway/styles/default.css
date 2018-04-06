@@ -1,3 +1,18 @@
+body, html, header, h1 {
+  margin: 0;
+  padding: 0;
+}
+
 body {
-  background-color: #000;
+  background-color: #fff;
+  font-family: Helvetica, sans-serif;
+  width: 1440px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+header {
+  position: relative;
+  height: 300px;
+  background: url('../imgs/the-flatiron-building.png') no-repeat;
 }
